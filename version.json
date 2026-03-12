@@ -1,1 +1,1 @@
-{"versionCode": 11,"versionName": "1.0.10","apkUrl": "https://msilvabo.github.io/practice_10/agc_cyr.apk","changelog": "- Mejoras proceso de sincronización ordenes , controles y separación de procesos de sincronizacion de fotos."}
+{"versionCode": 12,"versionName": "1.0.11","apkUrl": "https://msilvabo.github.io/practice_10/agc_cyr.apk","changelog": "control notificaciones para ordenes cerradas offline / captura log error WAF / delay 5 segundos sincronizacion / fecha-hora de pago en notificaciones"}
